@@ -1,0 +1,2 @@
+minecolonies-1.20.1-1.1.786-snapshot.jar filter=lfs diff=lfs merge=lfs -text
+towntalk-1.20.1-1.1.0.jar filter=lfs diff=lfs merge=lfs -text
